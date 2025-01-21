@@ -11,7 +11,9 @@ will utalise a ping protocol to ensure that the speeds are neutral across the Ne
 
 a self analysis tool to fine tune settings for optimal Speeds and image Quality (as per Programme)
 
-Example Systems Connected: ASUS ROG Crosshair X870E Hero Motherboard, Powercolour Liquid Devil AMD RX7900XTX (x2), Trident 128GB (X4@32GB@DDR5) F5-6000J3636F32GX2-TZ5RK, AMD Ryzen 9 7950X3D 4.2 GHz 145MB, ASUS ROG Thor 1600W Titanium (PSU), 360mm CPU cooler, Chassi Lian Li Odyssey X, Lian Li UNI FAN TL LCD 120 (X1 Exhaust) + Acer 24" Nitro XV242F 540 Hz Monitor
+Example Systems Connected: ASUS ROG Crosshair X870E Hero Motherboard, Powercolour Liquid Devil AMD RX7900XTX (x2), Trident 128GB (X4@32GB@DDR5) F5-6000J3636F32GX2-TZ5RK, AMD Ryzen 9 7950X3D 4.2 GHz 145MB, ASUS ROG Thor 1600W Titanium (PSU), 360mm CPU cooler, Chassi Lian Li Odyssey X, Corsair iCUE COMMANDER CORE XT (RGB Controller), Lian Li UNI FAN TL LCD 120 (X1 Exhaust) + Acer 24" Nitro XV242F 540 Hz Monitor 
+
+Periferals: Razer Viper 8K Hz (mouse), Steel Series Apex Pro TKL (Keyboard) & Gamers can use choice versions of Headsets - Manley Reference Cardioid Mic black (Microphones)
 
 Custom RGB interface for Team colous - for the players to implement.
 
