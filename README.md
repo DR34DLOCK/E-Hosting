@@ -1,5 +1,5 @@
 # X-Vanilla 
-After Noticing the massively increased Performance, Smoothness and general feel of Gaming on CS:GO on Linux I have devized a System for E-Sports (Pro Players to compete on) lets face it everything is better on Linux.
+After Noticing the massively increased Performance, Smoothness and general feel of Gaming on gaming titles such as CS:GO on Linux I have devized a System for E-Sports (Pro Players to compete on) lets face it everything is better on Linux.
 
 Custom Linux based pro gaming platform for use with AMD devices ONLY with a bias to minimal input-lag/Response time combined at modern day speeds.
 
